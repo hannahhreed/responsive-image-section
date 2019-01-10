@@ -8,6 +8,7 @@ html {
     box-sizing: border-box;
     background-color: #e2e2e2;
     font-family: sans-serif;
+    padding-left: 1rem;
   }
 
   *, *::before, *::after {
@@ -15,13 +16,15 @@ html {
   }
 }
 
-.content {
-
-}
-
 div .btn a {
   text-decoration: none;
   background-color: #555;
   color: #e2e2e2;
   padding: 1rem;
+  border-radius: 4px;
+}
+
+section .content .img-flex {
+  display: inline-block;
+  width: 48%;
 }
