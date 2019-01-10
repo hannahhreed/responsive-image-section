@@ -3,3 +3,24 @@
 @-o-viewport { width: device-width; scale: 1; }
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
+
+html {
+    box-sizing: border-box;
+    background-color: #e2e2e2;
+  }
+
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+}
+
+.content {
+
+}
+
+div .btn a {
+  text-decoration: none;
+  background-color: #555;
+  color: #e2e2e2;
+  padding: 1rem;
+}
