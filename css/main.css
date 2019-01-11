@@ -40,7 +40,6 @@ section .content {
 .img-flex {
   display: inline-block;
   width: 48%;
-}
 
 h1 strong {
   text-align: left;
