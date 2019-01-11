@@ -13,7 +13,7 @@ html {
   background-color: #e2e2e2;
   font-family: sans-serif;
   padding-left: 1rem;
-  }
+}
 
 *, *::before, *::after {
   box-sizing: inherit;
@@ -21,9 +21,10 @@ html {
 
 body {
   width: 100%;
+  margin: 0;
 }
 
-div a .btn {
+a .btn {
   text-decoration: none;
   background-color: #555;
   color: #e2e2e2;
@@ -72,7 +73,6 @@ section .content {
 
   html {
     font-size: 130%;
-    line-height: 1.5;
   }
 
 }
