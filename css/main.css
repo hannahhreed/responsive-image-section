@@ -24,7 +24,7 @@ body {
   margin: 0;
 }
 
-a .btn {
+div .btn {
   text-decoration: none;
   background-color: #555;
   color: #e2e2e2;
