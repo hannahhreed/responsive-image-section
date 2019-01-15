@@ -42,8 +42,8 @@ section .content {
 }
 
 .img-flex {
-  display: inline-block;
-  width: 48%;
+  width: 100%;
+  display: block;
 }
 
 h1 {
@@ -68,13 +68,19 @@ h1 {
 
   section {
     max-width: 25em;
-    width: 50%
+    width: 50%;
   }
 
   .content {
     display: inline-block;
     max-width: 25em;
-    width: 48%
+    width: 48%;
+  }
+
+  .photo {
+    display: inline-block;
+    max-width: 25em;
+    width: 48%;
   }
 
 }
