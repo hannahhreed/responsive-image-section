@@ -52,7 +52,7 @@ a:hover {
 h1 {
   text-align: left;
   margin-bottom: 2rem;
-  margin-top: 1.75rem;
+  margin-top: 1rem;
 }
 
 p {
@@ -102,6 +102,10 @@ p {
   .img-flex {
     width: 100%;
     display: block;
+  }
+
+  h1 {
+    padding-top: 1rem;
   }
 
 }
