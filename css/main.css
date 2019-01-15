@@ -28,8 +28,12 @@ a {
   text-decoration: none;
   background-color: #555;
   color: #e2e2e2;
-  padding: 1rem;
+  padding: .5em .75em;
   border-radius: 4px;
+}
+
+.btn {
+  padding-bottom: 1rem;
 }
 
 a:hover {
