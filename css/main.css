@@ -102,6 +102,10 @@ p {
     line-height: 1.5;
   }
 
+  h1 {
+    margin-bottom: 1rem;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
