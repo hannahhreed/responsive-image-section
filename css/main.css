@@ -48,7 +48,8 @@ a:hover {
 
 h1 {
   text-align: left;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
+  margin-top: 2rem;
 }
 
 p {
@@ -111,6 +112,7 @@ p {
 
   h1 {
     margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
   }
 
   p {
