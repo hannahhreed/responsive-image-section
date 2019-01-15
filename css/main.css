@@ -66,6 +66,17 @@ h1 {
     line-height: 1.4;
   }
 
+  section {
+    max-width: 25em;
+    width: 50%
+  }
+
+  .content {
+    display: inline-block;
+    max-width: 25em;
+    width: 48%
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
