@@ -107,11 +107,12 @@ p {
     line-height: 1.5;
   }
 
-  .content {
-    padding-top: 2rem;
+  .photo {
+    vertical-align: middle;
   }
 
-  section {
+  .content {
+    padding-top: 2rem;
     vertical-align: middle;
   }
 
