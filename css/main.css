@@ -106,6 +106,10 @@ p {
     padding-top: 2rem;
   }
 
+  section {
+    vertical-align: middle;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
