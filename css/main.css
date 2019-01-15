@@ -108,6 +108,10 @@ p {
     padding-top: 1rem;
   }
 
+  header {
+    padding-top: 0rem;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
