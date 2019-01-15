@@ -36,11 +36,6 @@ a:hover {
   background-color: #000;
 }
 
-section .content {
-  display: inline-block;
-  width: 48%;
-}
-
 .img-flex {
   width: 100%;
   display: block;
@@ -48,6 +43,10 @@ section .content {
 
 h1 {
   text-align: left;
+}
+
+p {
+  margin-top: 0;
 }
 
 @media only screen and (min-width: 25em) {
