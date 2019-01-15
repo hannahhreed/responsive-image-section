@@ -85,6 +85,7 @@ p {
     display: inline-block;
     max-width: 25em;
     width: 48%;
+    vertical-align: middle;
   }
 
   .photo {
