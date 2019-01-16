@@ -136,6 +136,10 @@ h1, p {
     padding-top: .5em;
   }
 
+  p:last-of-type {
+    padding-bottom: .7em;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
