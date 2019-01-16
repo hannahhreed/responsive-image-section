@@ -101,6 +101,10 @@ h1, p {
     text-align: left;
   }
 
+  header {
+    margin-left: 1rem;
+  }
+
   .image {
     width: 50.5%;
   }
