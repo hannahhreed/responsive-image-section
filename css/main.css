@@ -96,7 +96,18 @@ h1, p {
     text-align: center;
   }
 
+  .content {
+    padding-left: .2em;
+    text-align: left;
+  }
 
+  .image {
+    width: 50.5%;
+  }
+
+  p:first-of-type {
+    padding-top: .4em;
+  }
 
 }
 
@@ -107,13 +118,13 @@ h1, p {
     line-height: 1.5;
   }
 
-  h1 {
-    margin-bottom: 1.5rem;
-    margin-top: 1.5rem;
+  body {
+    padding-top: 2em;
   }
 
-  p {
-    margin-bottom: 1.5rem;
+  .content {
+    padding-left: .3em;
+    padding-top: 2rem;
   }
 
 }
