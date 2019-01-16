@@ -86,33 +86,17 @@ h1, p {
     padding-top: 1em;
   }
 
-  .content {
+  .content, .image {
     display: inline-block;
-    max-width: 25em;
-    width: 48%;
+    width: 48.5%;
     vertical-align: middle;
   }
 
-  .photo {
-    display: inline-block;
-    max-width: 25em;
-    width: 50%;
-    vertical-align: middle;
+  .section {
+    text-align: center;
   }
 
-  .img-flex {
-    width: 100%;
-    display: block;
-  }
 
-  h1 {
-    padding-top: 1rem;
-    margin-bottom: 1.5rem;
-  }
-
-  header {
-    padding-top: 0;
-  }
 
 }
 
