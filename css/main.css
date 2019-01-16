@@ -127,6 +127,15 @@ h1, p {
     padding-top: 2rem;
   }
 
+  a {
+    margin-top: .8rem;
+    margin-bottom: 1.2rem;
+  }
+
+  p:first-of-type {
+    padding-top: .5em;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
